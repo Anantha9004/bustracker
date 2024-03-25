@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dropdown Menu Example</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-image: url('https://live.staticflickr.com/65535/48585893546_f7f95e1a2a_b.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        color: white; /* Set text color to white for better readability on background */
+    }
+    .container {
+        margin: 50px auto;
+        text-align: center;
+    }
+    #nameDropdown {
+        padding: 10px;
+        font-size: 16px;
+        background-color: yellow; /* Set dropdown background color to yellow */
+        color: red; /* Set dropdown text color to red */
+        border: 2px solid red; /* Add red border */
+    }
+    #selectedName {
+        margin-top: 20px;
+        font-size: 18px;
+        font-weight: bold;
+    }
+</style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Select a Name:</h2>
+    <select id="nameDropdown">
+        <option value="">Select the Bus Stop Name...</option>
+        <option value="stop1">stop 1</option>
+        <option value="stop2">stop 2</option>
+        <option value="stop3">stop 3</option>
+        <option value="stop4">stop 4</option>
+    </select>
+    <div id="selectedName"></div>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var dropdown = document.getElementById("nameDropdown");
+        var selectedNameDisplay = document.getElementById("selectedName");
+
+        dropdown.addEventListener("change", function() {
+            var selectedName = dropdown.value;
+            if (selectedName !== "") {
+                selectedNameDisplay.textContent = "Selected Name: " + selectedName;
+                if (selectedName === "stop1") {
+                    window.location.href = "stop1.html"; // Redirect to stop1.html
+                }
+            } else {
+                selectedNameDisplay.textContent = "";
+            }
+        });
+    });
+</script>
+
+</body>
+</html>

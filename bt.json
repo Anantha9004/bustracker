@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bus-tracker-418215",
+  "private_key_id": "3da23097a11044e815c2883df1d732e028c2e365",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCnn5bwimf15TeY\ntZeXaFriXjlgrEYGydKdw9CZ9VcxzajUVJfGHAkq65sWq1IF44ZBCkcqClWr4WqI\nux9rcdniZtFVfrYmjWtItCmr2AJn7l6Nr8KOItSsbzA0FAQlVE7i65c9xNMJl770\nWZOu+1LPIsGlSuQDs3Hwh/2XqfTrOMdCZZ10+UCD7ed7Dvb913XdWSOlAJ2Pf56j\nqX6k1T3apCauxXvXyyBric2nLxXQFfCOHBRW+zbcRSkmXSRUEGCp/+Re8wHdwh1z\n/WRwU45r18CD4KOY6SP1bhlPlWJACSnYiJyO52zV3xRQDql4Sf6b7QTnJ+UEXViw\nXBYcRypXAgMBAAECggEAOJMpJyuXtgs0zhJwRTaAAkoqFIJgqjbhIsVt+SCw2sre\nkjew+DkLMRTPRgHxz7IA5J/a8AoH61jME7UQgDuvffYU7kWzpeRyUtoX/HuOKFTw\nTeMGB+IipMZsXw9obM79RyKb68msLt8sIJ3BNjx2MRo6gJb7yXH94WCMy20eEGuP\nhndC49eypdBV1LBzolqQ0IwKDR0bjuzi8NmbmB9A3xTLIey/FkkWMcznNvEcj90T\nkxg2t+IKc1liOPrgxlG5z4xlgwU1Ufbb49tsfdIaGOG/nJ58ljbM3KskchU2EW6n\n5U54gNb+BxpFvePcg6yvvRjKK+ATxGNshMkwA/StmQKBgQDjgVjHVdzVJqCijDU7\npKoBl/zZG/2ATKY5AvNGAMoLlZq2rnoeCE2+Ecaaz1xSySmJREMqH1sB1Oy/yj8Q\n4nnEYbe2KLqPbZiMG7UrZs5pHS/ofloK8EivB4P3l8WZXqUFyZe9gYzDkTcECWIU\nYUGvURwEBYvi0FvFcoqlRddlWQKBgQC8njXplMca/3nGAw9zx7PASMyuJYNRV2v3\nHwwsJ/dNNXrsvN/XvKheTpfKwjNBfa7s/r/U3m0E/QYSMhNZo/ZDkXzbSeSU3gcL\nsodUPOTOs/RYQG8JPNIp/0Hl5Fm3RQrNHOZsMXOyOxNxvYtbISU3Lm6dMOh8ERM7\nSsK9K0MnLwKBgQDcNHSD7J3lSpAtBVz5L/bFuCEq3CbQqmAxyqNB3L2z3Mh1jgfx\nTcRB9t6vNYp9LuyfSo1gFh12dmv5b37/jtahuJujG2UIMuJ2qtL/AXFE2NVoSfRJ\npi4UDEg1vJesTamZInlXGi/vk30W0SY357M2SGG/msa9cUOCp81/D0zfcQKBgQCU\nEEYWBJp/0QjQrdpVcvDiAsPZ+Myq78trBE5T41O4okDK0kGNYyVwUpXJrsT5piXJ\nGPmRqsE95zn60qBp/9HznKO8qLbtPZWeUxj0wZCDyrQHCx2ezMXV/fDG/IiI24Pt\nG8CuMeu2f7V11estMEm8lZBziM8XhXfpVXilcu6WNQKBgQCny0d2BQ2K2SkADu9f\nII6fHUydIoYe/VkFgszPzygqoOqdZHzz0iKackDEztg5wbKBFV3UtMfEceBD4/eR\nMCM/h0cdAQ1XvdarVzSmkvXLVcXKWePfANMqrQFCju6WB0Vcpcs0E4uIzZjYdZHm\nhQrHCvoPG4iKZzVkSoESRH8xJw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bus-tracker@bus-tracker-418215.iam.gserviceaccount.com",
+  "client_id": "115441749599475134773",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bus-tracker%40bus-tracker-418215.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
